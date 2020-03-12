@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>240986240686-3ai2q421igu4vo69g9qdn9k366vpkciq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.240986240686-3ai2q421igu4vo69g9qdn9k366vpkciq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAh4tap-VI6m_WKIX46gysr6Onpf1joN3M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>240986240686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Instation.a</string>
+	<key>PROJECT_ID</key>
+	<string>instation-b0d51</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instation-b0d51.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:240986240686:ios:74fa3748d258af1f9e9f3f</string>
+	<key>DATABASE_URL</key>
+	<string>https://instation-b0d51.firebaseio.com</string>
+</dict>
+</plist>

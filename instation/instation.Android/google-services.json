@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240986240686",
+    "firebase_url": "https://instation-b0d51.firebaseio.com",
+    "project_id": "instation-b0d51",
+    "storage_bucket": "instation-b0d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240986240686:android:c70fbd6a21f56a2a9e9f3f",
+        "android_client_info": {
+          "package_name": "Instation.a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240986240686-con4qj1v9r46lc4k7lbqm1dqmnjajg11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbQWw21KUPOYgO7BGyJNCn3M5A8ykI-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240986240686-con4qj1v9r46lc4k7lbqm1dqmnjajg11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

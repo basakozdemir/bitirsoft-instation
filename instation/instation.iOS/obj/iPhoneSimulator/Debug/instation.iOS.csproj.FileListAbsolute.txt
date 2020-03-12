@@ -1,0 +1,83 @@
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/instation.iOS.exe
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/instation.iOS.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.iOS.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfComboBox.XForms.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfComboBox.XForms.iOS.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Firebase.Auth.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Firebase.Core.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/instation.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/mscorlib.dll
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/instation.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/bin/iPhoneSimulator/Debug/mscorlib.pdb
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape@2x.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape@2x~ipad.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape@3x.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape@3x~ipad.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape@4x.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground-Landscape~ipad.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground@2x.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground@2x~ipad.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground@3x.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground@3x~ipad.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground@4x.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/LoginBackground~ipad.png
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/instation.iOS.csprojAssemblyReference.cache
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/instation.iOS.csproj.CopyComplete
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/instation.iOS.exe
+/Users/macbook/Downloads/instation/instation/instation.iOS/obj/iPhoneSimulator/Debug/instation.iOS.pdb

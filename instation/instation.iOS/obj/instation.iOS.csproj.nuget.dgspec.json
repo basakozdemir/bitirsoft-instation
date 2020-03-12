@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macbook/Downloads/instation/instation/instation.iOS/instation.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/macbook/Downloads/instation/instation/instation.iOS/instation.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbook/Downloads/instation/instation/instation.iOS/instation.iOS.csproj",
+        "projectName": "instation.iOS",
+        "projectPath": "/Users/macbook/Downloads/instation/instation/instation.iOS/instation.iOS.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Downloads/instation/instation/instation.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/macbook/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/macbook/Downloads/instation/instation/instation/instation.csproj": {
+                "projectPath": "/Users/macbook/Downloads/instation/instation/instation/instation.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Syncfusion.Xamarin.Buttons": {
+              "target": "Package",
+              "version": "[17.4.0.55, )"
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[17.4.0.55, )"
+            },
+            "Syncfusion.Xamarin.SfComboBox": {
+              "target": "Package",
+              "version": "[17.4.0.55, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Xamarin.Firebase.iOS.Auth": {
+              "target": "Package",
+              "version": "[6.4.2, )"
+            },
+            "Xamarin.Firebase.iOS.Core": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.356, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/macbook/Downloads/instation/instation/instation/instation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbook/Downloads/instation/instation/instation/instation.csproj",
+        "projectName": "instation",
+        "projectPath": "/Users/macbook/Downloads/instation/instation/instation/instation.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Downloads/instation/instation/instation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/macbook/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Syncfusion.Xamarin.Buttons": {
+              "target": "Package",
+              "version": "[17.4.0.53, )"
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[17.4.0.53, )"
+            },
+            "Syncfusion.Xamarin.SfComboBox": {
+              "target": "Package",
+              "version": "[17.4.0.53, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Xamarin.Firebase.Core": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.356, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
